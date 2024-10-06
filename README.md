@@ -218,3 +218,10 @@ MY PICTURE
 
 #### AM STILL LEARNING...
 - KUDOS TO MY TEACHERS
+
+🥇
+
+✈️
+
+| heading 1| table 2| table 3|
+|..........|........|........|
