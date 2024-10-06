@@ -4,16 +4,16 @@
 ###DATA ANALYSIS OVERVIEW
 
 #### MY OUTLINE
-[DATA ANALYSIS OVERVIEW](#data-analysis-overview)
-[DATA ANAYSIS HAS TO DO WITH](#data-analysis-has-to-do-with)
-[WAYS TO STORE DATA](#ways-to-store-data)
-[TOOLS USED](#tools-used)
-[DATA ANALYSIS LIFE CYCLE](#data-analysis-life-cycle)
-[DATA CLEANNG AND PREPARATION](#data-cleaning-and-preparation)
-[STRUCTURED QUERY LANGUAGE FOR QUERYING DATA](#structured-query-language-for-querying-data)
-[MY PICTURE](#my-picture)
-[NEXT TOPIC](#next-topic)
-[AM STILL LEARNING](am-still-learning)
+- [DATA ANALYSIS OVERVIEW](#data-analysis-overview)
+- [DATA ANAYSIS HAS TO DO WITH](#data-analysis-has-to-do-with)
+- [WAYS TO STORE DATA](#ways-to-store-data)
+- [TOOLS USED](#tools-used)
+- [DATA ANALYSIS LIFE CYCLE](#data-analysis-life-cycle)
+- [DATA CLEANNG AND PREPARATION](#data-cleaning-and-preparation)
+- [STRUCTURED QUERY LANGUAGE FOR QUERYING DATA](#structured-query-language-for-querying-data)
+- [MY PICTURE](#my-picture)
+- [NEXT TOPIC](#next-topic)
+- [AM STILL LEARNING](am-still-learning)
 
 
 DATA ANAYSIS HAS TO DO WITH
