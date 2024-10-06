@@ -54,5 +54,7 @@ WHERE CONDITION = TRUE
 ### PIVOT TABLE 
 [Pivot Tables File.xlsx](https://github.com/user-attachments/files/17270523/Pivot.Tables.File.xlsx)
 
+##### STRUCTURED QUERY LANGUAGE FOR QUERYING DATA
+- MY SQL QUERIES
 
  
