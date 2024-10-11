@@ -14,6 +14,10 @@
 - [MY PICTURE](#my-picture)
 - [NEXT TOPIC](#next-topic)
 - [AM STILL LEARNING](#am-still-learning)
+- [POWER BI (BUSINESS INTELLIGENCE)](#power-bi-(business-intelligence))
+- [SOURCES OF DATA](#sources-of-data)
+- [DATA CLEANING PROCESS](#data-cleaning-process)
+- [AFTER CLEANING CHECK](#after-cleaning)
 
 
 DATA ANAYSIS HAS TO DO WITH
@@ -66,6 +70,10 @@ WHERE CONDITION = TRUE
 
 ### PIVOT TABLE 
 [Pivot Tables File.xlsx](https://github.com/user-attachments/files/17270523/Pivot.Tables.File.xlsx)
+
+MY EXCEL CHART
+![Screenshot (13)](https://github.com/user-attachments/assets/24cd88cd-67aa-437c-820b-f155472793ed)
+
 
 ##### STRUCTURED QUERY LANGUAGE FOR QUERYING DATA
 - MY SQL QUERIES
@@ -211,6 +219,16 @@ where staffid = 'AB234'
 select * from salary
 where staffid = 'AB234'oading ESTYDB.sql…]()
 
+THE TABLES ARE BELOW
+
+![Screenshot (12)](https://github.com/user-attachments/assets/b75001a3-f142-483d-901e-787102d81442)
+
+![Screenshot (9)](https://github.com/user-attachments/assets/e0518683-dc06-4b96-bc14-c877223ca11b)
+
+![Screenshot (6)](https://github.com/user-attachments/assets/1a485ce3-98ab-4539-bd71-bd29db4af081)
+
+
+
 ###### LINKEDIN OPTIMISATION
 THIS WAS ONE OF THE INTERESTING THING I LEARNT
 - HOW TO PUT MY PROFILE PICTURE
@@ -275,6 +293,16 @@ N/B: AS MECHANIC IS TO A CAR, TRANSFORM IS TO A DATA.
 - COLUMN DISTRIBUTION
 - COLUMN PROFILE
 ONCE YOUR DATA IS CLEAN, RENAME IT AND SAVE.
+
+COLUMN QUALITY
+
+![Screenshot (15)](https://github.com/user-attachments/assets/c541582e-deee-4e3f-a0ad-8de0960e33e8)
+
+COLUMN PROFILE AND DISTRIBUTION
+![Screenshot (14)](https://github.com/user-attachments/assets/5f2d06b8-116a-4146-aa24-e8e7f6bc6ca6)
+
+THE ABOVE IS MY DATA AFTER CLEANING
+
 
 
 
