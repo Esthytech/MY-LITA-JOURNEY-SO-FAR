@@ -18,6 +18,7 @@
 - [SOURCES OF DATA](#sources-of-data)
 - [DATA CLEANING PROCESS](#data-cleaning-process)
 - [AFTER CLEANING CHECK](#after-cleaning)
+- [POWER BI DATA CLEANING ASSIGNMENT](#power-bi-data-cleaning-assignment)
 
 
 DATA ANAYSIS HAS TO DO WITH
