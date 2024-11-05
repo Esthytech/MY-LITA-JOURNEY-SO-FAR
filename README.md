@@ -23,6 +23,10 @@
 - [EXCEL PIVOT TABLE CHARTS](#excel-pivot-table-charts)
 - [SQL QUERIES](#sql-queries)
 - [POWER BI VISUALISATIONS](#power-bi-visualisations)
+- [PROJECT TWO (2) CUSTOMER SEGMENTATION FOR SUBSCRIPTION SERVICE](#project-two-(2)-customer-segmentation-for-subscription-service)
+- [EXCEL PIVOT TABLE CHARTS FOR PROJECT 2](#excel-pivot-table-charts-for-project-2)
+- [SQL QUERIES FOR PROJECT 2](#sql-queries-for-project-2)
+- [POWER BI VISUALISATION FOR PROJECT 2](#power-bi-visualisation-for-project-2)
 
 
 DATA ANAYSIS HAS TO DO WITH
@@ -386,4 +390,57 @@ THIS VISUALISATION INDICATES THE SALES DATA BY REGION AND ORDER ID BY PRODUCT
 - THIS REPORT SHOW SUM OF REVENUE BY EACH PRODUCT GENERATED
 
 ![P1 VISUALS5](https://github.com/user-attachments/assets/a542ab0e-4f84-4dca-8bb8-a4961dfcfb07)
-- INTERESTING REPORTS 
+- INTERESTING REPORTS
+
+- DEDUCTIONS:
+- FROM THE ABOVE DATA AND CHARTS, I WILL DEDUCE THAT THAT COMPANY SHOULD FOCUS ON THE REGIONS WITH LOW SALES,
+  CREATE MORE AWARENESS OF THE PRODUCTS THROUGH ADVERTS AND BILL BOARDS AND RUN PROMOS TO ATTRACT THE CUSTOMERS.
+
+  #### PROJECT TWO (2) CUSTOMER SEGMENTATION FOR SUBSCRIPTION SERVICE
+  
+  ### EXCEL PIVOT TABLE CHARTS FOR PROJECT 2
+  
+![P2 PIVOT TABLE](https://github.com/user-attachments/assets/77286d1b-0d72-48dc-aa13-39ffe9d56978)
+- THIS PIVOT TABLE INDICATES REVENUE BY SUBSCRIPTION, REGION BY SUBSCRIPTION, QUARTERLY REVENUE BY REGION E.T.C.
+
+![P2 CHART 1](https://github.com/user-attachments/assets/fbdc3ed7-8bc5-4fea-9d53-1eae98044835)
+- THIS BAR CHART INDICATES THE REVENUE BY SUBSCRIPTION CANCELLED
+
+![P2 CHARTS 2](https://github.com/user-attachments/assets/283ce7bb-6145-4090-8b9e-bc7d1f0c5094)
+- THIS CHART SHOWS THE REVENUE BY SUBSCRIPTION TYPE
+
+![P2 CHARTS 33](https://github.com/user-attachments/assets/0160194a-99b2-4d6c-9931-8b7f7a61ccf6)
+- THIS BPIE CHART SHOW THE REGION BY SUBSRIPTION TYPE
+
+ ### SQL QUERIES FOR PROJECT 2
+  
+![P2 Q1](https://github.com/user-attachments/assets/4f1c1f39-fbff-4600-a0d2-6c30cb59f8b4)
+- NUMBER OF CUSTOMER FOR EACH REGION
+
+![P2 Q2](https://github.com/user-attachments/assets/410ced93-e632-4cf4-afb4-203b7f4c9937)
+- THE MOST POPULAR SUBSCRIPTION TYPE
+
+![P2 Q3](https://github.com/user-attachments/assets/0e85bfa8-99d1-4981-9ca1-557a2c0676e7)
+- CANCELLED SUBSCRIPTION WITHIN 6 MONTHS
+
+![P2 Q4](https://github.com/user-attachments/assets/851a696e-fcda-40a4-88bc-0c15efa16540)
+- AVERAGE SUBSCRIPTION DURATION
+
+![P2 Q5](https://github.com/user-attachments/assets/5e37b321-cdf4-4301-9937-a39d9c2a2895)
+- SUBSCRIPTION LONGER THAN 12 MONTHS
+
+![P2 Q5B](https://github.com/user-attachments/assets/20cdaf79-5526-4c4d-b05d-e893fb49f3fe)
+
+
+![P2 Q6](https://github.com/user-attachments/assets/5a3a91bd-d1db-42fd-983c-fdd27133736d)
+- REVENUE BY SUBSCRIPTION TYPE
+
+![P2 Q7](https://github.com/user-attachments/assets/25b4ccd6-2892-4ec3-8087-b04c96d5a3e1)
+- TOP 3 REGIONS BY SUBSCRIPTION CANCELLATION
+
+![P2 Q8 A](https://github.com/user-attachments/assets/17031547-b7dc-4293-8c0c-5ab28cf9d81c)
+- TOTAL NUMBER OF ACTIVE CANCELLED SUBSCRIPTIONS
+
+![P2 Q8B](https://github.com/user-attachments/assets/959afd2c-6f0f-4435-90f0-d4504287d0e3)
+
+### POWER BI VISUALISATION FOR PROJECT 2
